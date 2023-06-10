@@ -1,7 +1,1 @@
-cd [PROJECT-DIRECTORY]
-git pull origin
-git checkout gh-pages
-echo "nerdle.jpod.host" > CNAME
-git add CNAME
-git commit -m "Added CNAME for GitHub Pages"
-git push
+nerdle.jpod.host
